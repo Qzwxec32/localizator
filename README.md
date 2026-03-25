@@ -1,5 +1,6 @@
 # localizator
 Simple mod for translation text to your language / Простой мод для перевода текста на ваш язык
+
 ENG:
 After installation, you need to launch the game. 
 On the first run, a file called translation.txt will be created in the bepinex/config folder.
